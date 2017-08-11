@@ -15,7 +15,6 @@ opencv/
 convnet/
 decaf/
 submission/
-cfg/
 darknet
 .fuse*
 
@@ -26,7 +25,6 @@ Icon?
 Thumbs.db
 *.swp
 VOCdevkit
-darknet
 predictions*
 **/edwin*
 *.weights
